@@ -1,0 +1,49 @@
+May 15 06:06 : config: option 'buffer_time' on line 23 was not recognized
+May 15 06:06 : config: option 'max_client' on line 38 was not recognized
+May 15 06:15 : config: option 'buffer_time' on line 23 was not recognized
+May 15 06:15 : config: option 'max_client' on line 38 was not recognized
+May 15 06:17 : config: option 'buffer_time' on line 23 was not recognized
+May 15 06:17 : config: option 'max_client' on line 38 was not recognized
+May 15 10:13 : config: option 'buffer_time' on line 23 was not recognized
+May 15 10:13 : config: option 'max_client' on line 38 was not recognized
+May 15 10:22 : client: [0] command "close" during idle
+May 15 10:27 : client: [1] command "close" during idle
+May 15 10:50 : client: [2] command "close" during idle
+May 15 10:51 : client: [3] command "close" during idle
+May 15 10:52 : client: [4] command "close" during idle
+May 15 10:53 : client: [5] command "close" during idle
+May 15 11:00 : client: [6] command "close" during idle
+May 15 11:00 : client: [7] command "close" during idle
+May 15 11:12 : client: [8] command "close" during idle
+May 15 11:20 : client: [9] command "close" during idle
+May 15 11:25 : client: [10] command "close" during idle
+May 15 11:29 : client: [11] command "close" during idle
+May 15 11:32 : client: [12] command "close" during idle
+May 15 12:05 : client: [13] command "close" during idle
+May 15 12:12 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:12 : config: option 'max_client' on line 38 was not recognized
+May 15 12:16 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:16 : config: option 'max_client' on line 38 was not recognized
+May 15 12:18 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:18 : config: option 'max_client' on line 38 was not recognized
+May 15 12:20 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:20 : config: option 'max_client' on line 38 was not recognized
+May 15 12:21 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:21 : config: option 'max_client' on line 38 was not recognized
+May 15 12:33 : config: option 'buffer_time' on line 23 was not recognized
+May 15 12:33 : config: option 'max_client' on line 38 was not recognized
+May 15 13:00 : client: [0] command "close" during idle
+May 15 13:04 : config: option 'buffer_time' on line 23 was not recognized
+May 15 13:04 : config: option 'max_client' on line 38 was not recognized
+May 15 15:23 : config: option 'buffer_time' on line 23 was not recognized
+May 15 15:23 : config: option 'max_client' on line 38 was not recognized
+May 15 16:40 : config: option 'buffer_time' on line 23 was not recognized
+May 15 16:40 : config: option 'max_client' on line 38 was not recognized
+May 15 17:15 : client: [0] command "close" during idle
+May 15 19:12 : client: [1] command "close" during idle
+May 15 19:18 : client: [2] command "close" during idle
+May 15 21:17 : config: option 'buffer_time' on line 23 was not recognized
+May 15 21:17 : config: option 'max_client' on line 38 was not recognized
+May 15 21:52 : client: [0] command "close" during idle
+May 16 00:45 : config: option 'buffer_time' on line 23 was not recognized
+May 16 00:45 : config: option 'max_client' on line 38 was not recognized

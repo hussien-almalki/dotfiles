@@ -1,0 +1,9 @@
+2022/05/15-23:12:48.470 3 Reusing MANIFEST /home/dt/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/15-23:12:48.470 3 Recovering log #3
+2022/05/15-23:12:48.471 3 Reusing old log /home/dt/.config/microsoft-edge/Default/Local Storage/leveldb/000003.log 
+2022/05/15-23:17:07.677 7 Level-0 table #5: started
+2022/05/15-23:17:07.685 7 Level-0 table #5: 96445 bytes OK
+2022/05/15-23:17:07.692 7 Delete type=0 #3
+2022/05/15-23:17:08.944 3 Level-0 table #7: started
+2022/05/15-23:17:08.950 3 Level-0 table #7: 10867 bytes OK
+2022/05/15-23:17:08.957 3 Delete type=0 #4
